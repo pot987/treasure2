@@ -1,0 +1,11 @@
+Model Information:
+* title:	World Map
+* source:	https://sketchfab.com/3d-models/world-map-bd166f48620e44f89d9fa7218bf5c476
+* author:	3d.xyz (https://sketchfab.com/webuild)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "World Map" (https://sketchfab.com/3d-models/world-map-bd166f48620e44f89d9fa7218bf5c476) by 3d.xyz (https://sketchfab.com/webuild) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
